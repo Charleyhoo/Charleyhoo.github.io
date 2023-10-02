@@ -18,7 +18,7 @@ Fibonacci数列的时间复杂度取决于采用的计算方法。有多种方�
 In general, the time complexity of the Fibonacci sequence can be reduced from exponential O(2^n) to linear O(n), or even further reduced to logarithmic O(log n), depending on the selected calculation method. In practical applications, the appropriate calculation method should be selected based on specific needs and performance requirements.
 
 #### Coding Example
-```c++
+```c
 Recursive method:
 int main()
 {
@@ -27,8 +27,8 @@ int main()
         else return aFunc(n - 1) + aFunc(n - 2);
     }
 }
-````
-```c++
+```
+```c
 Dynamic programming method:
 int main()
 {
@@ -57,8 +57,8 @@ The space complexity is O(1)
 
 Equivalent to reducing the size of the DP table from n to 2
 Generally speaking, it is used to compress a two-dimensional DP table into one dimension, that is, to compress the space complexity from O(n^2) to O(n).
-````
-```c++
+```
+```c
 Matrix multiplication method:
 int main(){
     static int Fibonacci(int n){
@@ -90,4 +90,4 @@ int main(){
         f[1, 1] = w;
     }
 }
-````
+```
