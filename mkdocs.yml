@@ -1,4 +1,4 @@
-site_name: Chang Huang's Tutorials
+site_name: Chang Huang Homepage
 site_url: https://Charleyhoo.github.io/Charleyhoo.github.io/
   
 
@@ -12,13 +12,13 @@ theme:
       accent: orange # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night # 图标
-        name: 切换至夜间模式 # 鼠标悬浮提示,反应有点慢3s左右 
+        name: change to dark mode # 鼠标悬浮提示,反应有点慢3s左右 
     - scheme: slate # 夜间模式
       primary: indigo
       accent: orange
       toggle:
         icon: material/weather-sunny
-        name: 切换至日间模式
+        name: change to light mode
   features:
     - navigation.tabs # 使用Tab来进行分类
     - navigation.top # 返回顶部的按钮 在上滑时出现
