@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Welcome
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Those are all about me:
+- LinkedIn: <https://www.linkedin.com/in/chang-huang-6049bb251/>
+- Github: <https://github.com/Charleyhoo/>
+- Youtube: <https://www.youtube.com/channel/UC9B9MJUp5GwRgwAz1lfJsSw>
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Tips
+- Open the article by using the subject and directory.
+    - On the PC, select the subject in the top toolbar and choose the article from the left side directory.
+    - On mobile devices, click on the icon in the top left corner to select the subject and article.
+- Use keywords to search and open articles.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

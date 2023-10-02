@@ -29,6 +29,7 @@ theme:
     - content.code.copy # 可以通过按钮复制代码
     - content.action.edit # 点击按钮跳转到编辑页面  需要结合 edit_uri 一起使用
   language: zh # 一些提示性的文字会变成中文
+  language: en 
   icon:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
@@ -40,7 +41,7 @@ copyright: Chang Huang CC-BY-1.0 # 左下角的版权声明
 ## [bottom-right corner]
 extra:
   social: # icons
-    - icon: fontawesome/brands/LinkedIn
+    - icon: fontawesome/brands/Linkedin
       link: https://www.linkedin.com/in/chang-huang-6049bb251/
       name: LinkedIn | Chang Huang # 鼠标悬浮提示
     - icon: fontawesome/brands/github
