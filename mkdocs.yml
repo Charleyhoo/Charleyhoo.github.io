@@ -41,7 +41,7 @@ copyright: Chang Huang CC-BY-1.0 # 左下角的版权声明
 ## [bottom-right corner]
 extra:
   social: # icons
-    - icon: fontawesome/brands/Linkedin
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/chang-huang-6049bb251/
       name: LinkedIn | Chang Huang # 鼠标悬浮提示
     - icon: fontawesome/brands/github
