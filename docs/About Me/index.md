@@ -1,4 +1,7 @@
 # About Me
-Click the table of contents on the left to open the article.
+> This is a detailed resume for Chang Huang
+>
+> Update: 10/03/2023
 
-Choose whatever you want and enjoy time😄
+Here is my resume:
+[Resume](Resume/CV.pdf)
