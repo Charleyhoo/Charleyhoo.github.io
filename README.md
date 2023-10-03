@@ -1,17 +1,12 @@
-# **Homepage**
-Those are all about me:
-
+# **Read Me**
+About Me:
 - Homepage: <https://Charleyhoo.github.io/Charleyhoo.github.io/>
 - LinkedIn: <https://www.linkedin.com/in/chang-huang-6049bb251/>
-- Github: <https://github.com/Charleyhoo/>
-- Youtube: <https://www.youtube.com/channel/UC9B9MJUp5GwRgwAz1lfJsSw>
+## Version Mark Note
 
-
-
-## Tips
-
-- Open the article by using the subject and directory.
-    - On the PC, select the subject in the top toolbar and choose the article from the left side directory.
-    - On mobile devices, click on the icon in the top left corner to select the subject and article.
-- Use keywords to search and open articles.
+- Oct.1:
+    - Make the infrustruction of this makedocs web --> 
+- Oct.2: 
+    - Add parts: About Me, Rutgers University Experience, Software Note, Website
+    - Tech problem: Want to click the language selector to change language: English and Chinese-simplify. But it failed(Don't know how to change, maybe this will jump two websites?)
 

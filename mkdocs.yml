@@ -1,10 +1,39 @@
 site_name: Chang Huang Homepage
 site_url: https://Charleyhoo.github.io/Charleyhoo.github.io/
-  
+site_author: Chang Huang
+site_description: Chang Huang's Homepage
 
+
+# [Navigtion]
+nav:
+  - Rutgers University: # Rutgers University
+    - Rutgers University Experience/index.md
+    - Photo: 
+      - Rutgers Busch Campus: Rutgers University Experience/Photo/Rutgers Busch Campus/photo.md
+      - My journal: Rutgers University Experience/Photo/My journal/1.md
+    - Experience:
+      - Working Report: 
+        - Week1: Rutgers University Experience/Working Report/Week1/Sept.18-Spet.24.md
+        - Week2: Rutgers University Experience/Working Report/Week2/Sept.25-Oct.1.md
+  - Software Note:
+    - Software Note/index.md
+    - C++: 
+      - Software Note/C++/BigO.md
+    - Java:
+      - Software Note/Java/banner.md
+      - Software Note/Java/banner1.md
+  - Website:
+    - Website: Website/index.md
+    - build: Website/build.md
+  
+  - About Me:
+    - About Me/index.md
+    - resume: About Me/resume.md
+ 
 # [UI]
 ## [top]
 theme:
+  direction: ltr
   name: material
   palette:
     - scheme: default # 日间模式
@@ -32,6 +61,7 @@ theme:
   language: en 
   icon:
     repo: fontawesome/brands/github
+    logo: material/cat #左上角的图标样式
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
 repo_url: https://github.com/Charleyhoo/Charleyhoo.github.io # 右上角点击跳转的链接
@@ -41,12 +71,19 @@ copyright: Chang Huang CC-BY-1.0 # 左下角的版权声明
 ## [bottom-right corner]
 extra:
   social: # icons
-    - icon: fontawesome/brands/linkedin
+    - icon: fontawesome/brands/linkedin #LinkedIn是小写不然报错 
       link: https://www.linkedin.com/in/chang-huang-6049bb251/
       name: LinkedIn | Chang Huang # 鼠标悬浮提示
     - icon: fontawesome/brands/github
       link: https://github.com/Charleyhoo
       name: GitHub | Charleyhoo
+  alternate: #不同语言的链接
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Chinese
+      link: /zh/
+      lang: zh
 
 # [Extensions]
 plugins:
@@ -54,9 +91,15 @@ plugins:
     # insider已经支持中文的分词搜索了 https://squidfunk.github.io/mkdocs-material/blog/2022/chinese-search-support/
       lang:
         - en
-        - ch
+        - zh
         - ja
   - tags # 给单篇文章添加标签 https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/?h=tags
+  # - projects:
+  #     enabled: true
+  #     #projects_config_files: "**/mkdocs.yml" 
+
+  
+
 markdown_extensions:
   - pymdownx.arithmatex: # latex支持
       generic: true
