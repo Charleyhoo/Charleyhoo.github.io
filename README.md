@@ -9,4 +9,5 @@ About Me:
 - Oct.2: 
     - Add parts: About Me, Rutgers University Experience, Software Note, Website
     - Tech problem: Want to click the language selector to change language: English and Chinese-simplify. But it failed(Don't know how to change, maybe this will jump two websites?)
-
+- Oct.3
+    - revise the resume and upload
