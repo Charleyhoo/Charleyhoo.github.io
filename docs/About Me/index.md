@@ -4,4 +4,4 @@
 > Update: 10/03/2023
 
 Here is my resume:
-[Resume](Resume/CV.pdf)
+[Resume](Resume/cv.pdf)

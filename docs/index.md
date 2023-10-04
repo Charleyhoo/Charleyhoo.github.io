@@ -5,6 +5,7 @@ Those are all about me:
 - LinkedIn: <https://www.linkedin.com/in/chang-huang-6049bb251/>
 - Github: <https://github.com/Charleyhoo/>
 - Youtube: <https://www.youtube.com/channel/UC9B9MJUp5GwRgwAz1lfJsSw>
+- Resume: [Resume](About Me/Resume/cv.pdf)
 
 
 
