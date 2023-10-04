@@ -27,8 +27,8 @@ nav:
     - build: Website/build.md
   
   - About Me:
-    - About Me/index.md
-    - resume: About Me/resume.md
+    - AboutMe/index.md
+    - resume: AboutMe/resume.md
  
 # [UI]
 ## [top]
