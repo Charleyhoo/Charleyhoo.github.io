@@ -15,10 +15,12 @@ nav:
       - Working Report: 
         - Week1: Rutgers University Experience/Working Report/Week1/Sept.18-Spet.24.md
         - Week2: Rutgers University Experience/Working Report/Week2/Sept.25-Oct.1.md
+        - Week3: Rutgers University Experience/Working Report/Week3/Oct.2-Oct.8.md
   - Software Note:
     - Software Note/index.md
     - C++: 
       - Software Note/C++/BigO.md
+      - Software Note/C++/VscodeConfig.md
     - Java:
       - Software Note/Java/banner.md
       - Software Note/Java/banner1.md
