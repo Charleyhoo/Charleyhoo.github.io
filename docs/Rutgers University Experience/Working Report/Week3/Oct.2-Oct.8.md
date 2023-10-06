@@ -22,5 +22,8 @@ Change the recording method from summary to daily report.
     - 01 bags
 ## Thursday
 - Rebuild C++ environment and add the `.vscode` folder(including `launch.json`, `settings.json` and `tasks.json`) and add them in this website.
-- Doing the project preposal and sildes of HPC.
+- Doing the project proposal and sildes of HPC. I do it until 3AM late at night.
 ## Friday
+- Get up late 10AM this morning and wait for the HPC class to do this pre. 
+- Doing some exercise? Maybe
+- Always want to have a break in the night of Friday.
