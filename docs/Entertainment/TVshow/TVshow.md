@@ -40,9 +40,6 @@ Share my personal experience of some TV shows which I'm interested in.
 7. Lean not on our own understanding.
 8. Has the seed been planted? He has a choice. Will he wither or will he thrive? Only time will tell.
 9. Only total victory will put me back in his good grace. The alternative is exile, which would mean the last five months were for nothing. I cannot abide falling back to square one.([Gridplay](Gridplay.md#House%20of%20card))
-<video width="640" height="360" controls>
-  <source src="attachfile/houseofcard1.mp4" type="video/mp4">
-</video>
 10. The party’s investing in you, I need to make sure you’re investing in yourself.
 11. For a moment, the moment last the length of a breath.
 12. As we used to say in Gaffney, never slap a man  while he’s chewing tobacco.
