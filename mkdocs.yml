@@ -24,6 +24,13 @@ nav:
     - Java:
       - Software Note/Java/banner.md
       - Software Note/Java/banner1.md
+  - Entertainment:
+    - Entertainment/index.md
+    - TVshow:
+      - Entertainment/TVshow/TVshow.md
+      - Entertainment/TVshow/Gridplay.md
+    - Movie:
+      - Entertainment/Movie/Movie.md
   - Website:
     - Website: Website/index.md
     - build: Website/build.md
