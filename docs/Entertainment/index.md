@@ -1,5 +1,7 @@
-# Entertainment
+# **Entertainment**
 
-Click the table of contents on the left to open the article.
+## Record daily entertainment life. Hope you will enjoy it.
+- TV show: [show](TVshow/TVshow.md)
+- Gridplay: [play](TVshow/Gridplay.md) Contain Videos
 
-Choose whatever you want and enjoy time 😄
+<img src="1.gif" alt="GIF Description" style="max-width: 400px; max-height: 400px;">
