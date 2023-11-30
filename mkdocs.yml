@@ -33,6 +33,8 @@ nav:
     - Photo: 
       - Rutgers Busch Campus: Rutgers University Experience/Photo/Rutgers Busch Campus/photo.md
       - My journal: Rutgers University Experience/Photo/My journal/1.md
+    - Courses:
+      - AI in decision making: Rutgers University Experience/Courses/AI in decision making/1.md
   - Website:
     - Website: Website/index.md
     - build: Website/build.md
